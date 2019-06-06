@@ -18,5 +18,5 @@ Add the executable and supporting files to a server that you want to monitor
   Make sure the server has .NETFramework,Version=v4.5
   Add to scheduled tasks, you do one and then export the task and import on the others
   
-RefP: lots of this code was taken from Slack's help page here https://api.slack.com/incoming-webhooks
+Ref: lots of this code was taken from Slack's help page here https://api.slack.com/incoming-webhooks
 
